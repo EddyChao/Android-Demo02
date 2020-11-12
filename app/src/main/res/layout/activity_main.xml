@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.demo02.MainActivity" >
+
+    <TextView
+        android:id="@+id/MyText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/MyButton01"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="按钮1"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="按钮2" />
+    <Button
+        android:id="@+id/button03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:text="按钮3" />
+    <Button
+        android:id="@+id/button04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="按钮4" />
+
+
+
+</RelativeLayout>
+

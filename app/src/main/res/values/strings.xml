@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo02</string>
+    <string name="page1">页面1</string>
+    <string name="page2">页面2</string>
+    <string name="page3">页面3</string>
+    <string name="page4">页面4</string>
+    <string name="page5">页面5</string>
+</resources>
